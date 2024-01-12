@@ -144,11 +144,11 @@
 
 ###
 
-<p align="left">- Delve into the AI & ML field<br>- Get a job in Product base company<br>- Learn & Grow<br>Create and Upload more Projects in 2024</p>
+<p align="left">- Delve into the AI & ML field<br>- Get a job in Product base company<br>- Learn & Grow<br>- Create and Upload more Projects in 2024</p>
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Social Media Handles: </h2>
 
 ###
 
@@ -165,5 +165,5 @@
 </div>
 
 ###
-
+<h2 align="left">Stats</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varundesai27&label=Profile%20views&color=0e75b6&style=flat" alt="varundesai27" /> </p>
