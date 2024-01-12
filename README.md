@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Varunkumar Desai</h1>
+<h1 align="center">Hi 👋, I'm Varunkumar Desai!</h1>
 
 <p align="center">A passionate Developer from Mumbai, India.</p>
 
 ###
 
 <div align="center">
-  <img height="190" src="https://i.ibb.co/SfsLvxp/Varunkumar-Banner.png"  />
+  <img height="200" src="https://i.ibb.co/SfsLvxp/Varunkumar-Banner.png"  />
 </div>
 
 <p align="center">
