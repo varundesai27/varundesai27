@@ -144,7 +144,7 @@
 
 ###
 
-<p align="left">- Delve into the AI & ML field<br>- Get a job in Product base company<br>- Learn & Grow</p>
+<p align="left">- Delve into the AI & ML field<br>- Get a job in Product base company<br>- Learn & Grow<br>Create and Upload more Projects in 2024</p>
 
 ###
 
